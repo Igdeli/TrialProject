@@ -1,2 +1,2 @@
 # TrialProject
-Understanding what is GitHun
+Understanding what is GitHub
